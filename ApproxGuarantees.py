@@ -102,7 +102,7 @@ if __name__ == "__main__":
    M = int(sys.argv[5])
    b = int(sys.argv[6])
    min_deg = int(sys.argv[7])
-   freq_th = int(sys.argv[8])
+   freq_th = float(sys.argv[8])
   
    vaccfile = sys.argv[9]
    noBs = int(sys.argv[10])
